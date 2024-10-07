@@ -1,4 +1,4 @@
-## Hi there 👋 Zuko here 😃
+## Hello 👋 Zuko here 😃
 
 <!--
 **Sachin04t/Sachin04t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
